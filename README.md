@@ -16,8 +16,7 @@ If you are interested in our paper and code or you find this project useful in y
 
 # Installation
 ```
-Clone this repository: tested on Python 3.7
-Install PyTorch: tested on v1.7
+Will be updated gradually
 ```
 
 # Demo
