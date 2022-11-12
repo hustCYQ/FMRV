@@ -7,7 +7,7 @@
 
 
 
-# BibTex Citation
+# Citation
 If you are interested in our paper and code or you find this project useful in your research, please consider cite:
 
 
@@ -15,6 +15,10 @@ If you are interested in our paper and code or you find this project useful in y
 # Installation
 
 
+# Demo
+
+
+# Some results
 
 
 
