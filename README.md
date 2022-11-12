@@ -8,7 +8,7 @@ In 3D scanning of large-sized industrial parts, it is more common to collect poi
 
 
 # Citation
-If you are interested in our paper and code or you find this project useful in your research, please consider cite:
+If you are interested in our paper and code or you find this project useful in your research, please consider cite:<br>
 `@article{CAO2022108846,
 title = {Informative knowledge distillation for image anomaly segmentation},
 journal = {Knowledge-Based Systems},
