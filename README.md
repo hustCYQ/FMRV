@@ -9,12 +9,16 @@ In 3D scanning of large-sized industrial parts, it is more common to collect poi
 
 # Citation
 If you are interested in our paper and code or you find this project useful in your research, please consider cite:<br>
-```@article{}
-}```
+```
+@article{}
+```
 
 
 # Installation
-
+```
+Clone this repository: tested on Python 3.7
+Install PyTorch: tested on v1.7
+```
 
 # Demo
 
